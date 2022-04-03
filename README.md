@@ -1,5 +1,5 @@
 ### Hallo! I'm Vaibhav Chaudhary 👋
-   #A Full/Mern Stack Enthusiast From India
+   ###A Full/Mern Stack Enthusiast From India
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Team Akatsuki
