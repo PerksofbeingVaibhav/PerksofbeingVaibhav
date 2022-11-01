@@ -4,13 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PerksofbeingVaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav" /> </p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Project Sophia
-- 🌱 I’m currently learning NodeJS and React
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about C++ and JavaScript
-- 📫 How to reach me: Gmail: @chaudharyvaibhav360@gmail.com
+- 🔭 I’m open for work.
+- 🌱 I’m currently learning Docker.
+- 💬 Ask me about Web Development
+- 📫 How to reach me: Gmail: @vaibhav360pro@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: In free time you can find me binging series on  netflix.
+- ⚡ Fun fact: I like Gaming, mainly story modes and campaigns.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
